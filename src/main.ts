@@ -8,7 +8,12 @@
 
 // export default app
 
-
 import * as ns from './namespace';
 
+// run "farm build" & "vite build" 观察输出
+
+// partial bar
 console.log(ns.bar);
+
+// all preserve
+// console.log(ns);
